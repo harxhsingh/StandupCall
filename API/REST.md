@@ -1,6 +1,6 @@
 REST (Representational State Transfer) is an architectural style used for designing networked applications, particularly web services. REST APIs (Application Programming Interfaces) are a set of rules and conventions that allow different software applications to communicate with each other using the principles of REST.
 
-Here are some key points about REST APIs: 
+Here are some key points about REST APIs:
 
 1. **Stateless**: REST APIs are stateless, meaning that each request from a client to the server contains all the necessary information to process that request. The server does not maintain any session information about the client between requests.
 
